@@ -1,0 +1,9 @@
+== Frequently Asked Questions (FAQs)
+
+*Q: Will it be a complete development project or we have to solve a problem?*
+
+A: Development and testing of the draft API specification(s).
+
+*Q: What examples exist of servers that have already implemented the draft specifications?*
+
+A: Examples of implementations are listed at https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/blob/master/implementations.adoc

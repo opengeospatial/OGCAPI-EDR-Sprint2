@@ -1,0 +1,16 @@
+== API Specs
+
+=== Focus of the Sprint
+
+* OGC API - Environmental Data Retrieval candidate standard
+** spec https://www.ogc.org/pressroom/pressreleases/3280
+** repository https://github.com/opengeospatial/Environmental-Data-Retrieval-API
+** OpenAPI definition https://opengeospatial.github.io/Environmental-Data-Retrieval-API/docs/edr_api.html
+
+=== Other related specs
+
+* OGC API - Common - Part 1: Core
+** repository http://docs.opengeospatial.org/DRAFTS/19-072.pdf
+
+* OpenAPI
+** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md

@@ -1,0 +1,37 @@
+== Tentative Schedule / Agenda
+
+All times on the agenda are in EST (Washington D.C. time).
+
+&#10036; means that the session will have a Gotomeeting virtual room.
+
+[cols="3,7,7a",options="header",]
+|===
+|*Time* (EST) |*What* |*Lead*
+3+|*Webinar (GotoMeeting) November 4th, 2020 at 09:00*
+|5 minutes | Welcome & Sponsor Remarks  &#10036;| Gobe Hobona (OGC)
+|20 minutes | Overview of the OGC API - Environmental Data Retrieval candidate standard  &#10036;| Chris Little (Met Office)
+|10 minutes | API definition and examples  &#10036;| TBC
+|25 minutes |Questions & Answers &#10036;|
+3+|*November 9th, 2020*
+|09:00-09:05 |Welcome & objectives &#10036; | Gobe
+|09:05-09:10 |Sprint programme & way of working &#10036; |  Gobe
+|09:10-09:20 |Sprint goals (expectations from the SWG Chair)  &#10036;| Chris
+|09:20-09:40 |Overview of the OGC API - Environmental Data Retrieval candidate standard  &#10036;| Chris
+|09:40-10:00 |Pre-existing EDR API demos  &#10036;| Any volunteer
+|10:00-10:20 |Questions and Answers &#10036;|
+|10:20-13:00 |Practical work|
+|Break| |
+|13:30-15:30 |Practical work|
+|15:30-16:30 |Issues / concerns &#10036; | Facilitator:  Gobe
+|16:30-17:30 |Practical work|
+3+|*November 10th, 2020*
+|09:00-10:00 |a short stand-up and preliminary demonstration &#10036; |Facilitator: Gobe
+|10:00-12:30 |Practical work|
+|12:30-13:00 |Issues / concerns &#10036;|
+|Break| |
+|13:30-15:30 |Practical work|
+|15:30-16:30
+a|Demonstration &#10036;
+|Facilitator: Gobe
+|16:30-17:30 |Wrap-up: immediate lessons, next steps, thanks and goodbyes &#10036; | Gobe
+|===
