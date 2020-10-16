@@ -1,6 +1,6 @@
 == Tentative Schedule / Agenda
 
-All times on the agenda are in EST (Washington D.C. time).
+All times on the agenda are in [EST](https://www.timeanddate.com/worldclock/usa/washington-dc) (Washington D.C. time).
 
 &#10036; means that the session will have a Gotomeeting virtual room.
 

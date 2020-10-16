@@ -1,6 +1,6 @@
 == About the OGC API - EDR Sprint 2 virtual event
 
-The sprint will be held through remote participation/web-conferencing on November 9-10, 2020, from 9:00am 5:30pm US Eastern each day. An OGC Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimum process and organisation constraints to support the development of new applications and open standards.
+The sprint will be held through remote participation/web-conferencing on November 9-10, 2020, from 9:00am 5:30pm [EST](https://www.timeanddate.com/worldclock/usa/washington-dc). An OGC Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimum process and organisation constraints to support the development of new applications and open standards.
 
 The code sprint will focus on refining the [OGC API - Environmental Data Retrieval candidate standard](https://www.ogc.org/pressroom/pressreleases/3280). The candidate standard uses current web technologies and best practices to enable end-users - or anyone with web development experience - to easily identify and retrieve a subset of data from ‘big data’ stores. The idea is to save those users interested in environmental (or other) data from having to transfer and deal with datasets that inevitably contain data concerning areas or time periods that are irrelevant to their interests.
 
