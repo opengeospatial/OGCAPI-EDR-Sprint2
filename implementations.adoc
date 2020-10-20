@@ -25,6 +25,10 @@
 |===
 |Implementation | Type | Contact
 
+| https://example.org[Example product]
+| OGC API - EDR
+| https://github.com/ghobona[Gobe Hobona]
+
 | TBA
 | TBA
 | TBA
