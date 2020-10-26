@@ -29,9 +29,9 @@
 | OGC API - EDR
 | https://github.com/ghobona[Gobe Hobona]
 
-| TBA
-| TBA
-| TBA
+| https://ogcie.iblsoft.com/edr[IBL EDR Server]
+| OGC API - EDR
+| edr@iblsoft.com
 
 | TBA
 | TBA
