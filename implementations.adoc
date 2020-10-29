@@ -33,6 +33,10 @@
 | OGC API - EDR
 | edr@iblsoft.com
 
+| http://geos.whu.edu.cn/whu-edr-demo [WHU EDR Server]
+| OGC API - EDR
+| sgby@whu.edu.cn
+
 | TBA
 | TBA
 | TBA
