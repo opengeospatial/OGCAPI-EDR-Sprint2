@@ -8,7 +8,7 @@ All times on the agenda are in [EST](https://www.timeanddate.com/worldclock/usa/
 |===
 |*Time* (EST) |*What* |*Lead*
 3+|*Webinar (GotoMeeting) November 4th, 2020 at 09:00*
-|5 minutes | Welcome & Sponsor Remarks  &#10036;| Gobe Hobona (OGC)
+|5 minutes | Welcome &#10036;| Gobe Hobona (OGC)
 |20 minutes | Overview of the OGC API - Environmental Data Retrieval candidate standard  &#10036;| Chris Little (Met Office)
 |10 minutes | API definition and examples  &#10036;| TBC
 |25 minutes |Questions & Answers &#10036;|
