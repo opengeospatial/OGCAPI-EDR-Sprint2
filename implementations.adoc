@@ -37,9 +37,9 @@
 | OGC API - EDR
 | sgby@whu.edu.cn
 
-| TBA
-| TBA
-| TBA
+| https://data-api.mdl.nws.noaa.gov/EDR-API [NWS EDR Server]
+| OGC API - EDR
+| shane.mill@noaa.gov
 
 | TBA
 | TBA
