@@ -9,9 +9,12 @@ All times on the agenda are in [EST](https://www.timeanddate.com/worldclock/usa/
 |*Time* (EST) |*What* |*Lead*
 3+|*Webinar (GotoMeeting) November 4th, 2020 at 09:00*
 |5 minutes | Welcome &#10036;| Gobe Hobona (OGC)
-|20 minutes | Overview of the OGC API - Environmental Data Retrieval candidate standard  &#10036;| Chris Little (Met Office)
-|10 minutes | API definition and examples  &#10036;| TBC
-|25 minutes |Questions & Answers &#10036;|
+|15 minutes | Overview of the OGC API - Environmental Data Retrieval candidate standard  &#10036;| Chris Little (Met Office)
+|5 minutes | API example  &#10036;| Mark Burgoyne (Met Office)
+|5 minutes | API example  &#10036;| Shane Mill (NOAA)
+|5 minutes | API example  &#10036;| Boyi Shangguan (Wuhan University)
+|5 minutes | API example  &#10036;| Igor Andruska (IBL Software Engineering)
+|20 minutes |Questions & Answers &#10036;|
 3+|*November 9th, 2020*
 |09:00-09:05 |Welcome & objectives &#10036; | Gobe
 |09:05-09:10 |Sprint programme & way of working &#10036; |  Gobe
