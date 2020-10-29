@@ -72,8 +72,8 @@
 |===
 |Implementation | Type | Contact
 
-| https://github.com/opengeospatial/ets-ogcapi-edr10[OGC API - Environmental Data Retrieval ETS (derived from OGC API - Features ETS)]
+| https://github.com/opengeospatial/ets-ogcapi-edr10[ETS for the OGC API - Environmental Data Retrieval candidate standard]
 | Executable Test Suite
-| https://github.com/ghobona[Gobe]
+| https://github.com/ghobona[Gobe Hobona]
 
 |===
