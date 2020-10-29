@@ -23,7 +23,7 @@
 .Service implementations
 [cols=",,",width="75%",options="header",align="center"]
 |===
-|Implementation | Type | Contact
+|Implementation | Type | Contact (GitHub ID or email address)
 
 | https://example.org[Example product]
 | OGC API - EDR
@@ -72,8 +72,8 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://github.com/opengeospatial/ets-ogcapi-edr10[OGC API - Environmental Data Retrieval ETS (derived from OGC API - Features ETS)]
+| Executable Test Suite
+| https://github.com/ghobona[Gobe]
 
 |===
