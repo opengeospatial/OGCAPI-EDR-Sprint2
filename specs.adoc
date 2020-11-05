@@ -20,3 +20,12 @@
 
 * OpenAPI
 ** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
+
+* WKT Well Known Text
+** spec https://portal.ogc.org/files/?artifact_id=80428 
+
+* WKT Well Known Text for CRS Coordinate Reference Systems
+** spec http://docs.opengeospatial.org/is/18-010r7/18-010r7.html
+
+* DateTime strings IETF RFC 3339 (profile of ISO8601)
+** spec https://tools.ietf.org/html/rfc3339 
