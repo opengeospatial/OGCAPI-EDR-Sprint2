@@ -4,6 +4,8 @@
 
 A list of *previous and future OGC sprints and hackathons* is available at https://www.ogc.org/projects/initiatives/ogcsprints
 
+The previous OGC API EDR Sprint was held virtually in March 2020. Details are at https://github.com/opengeospatial/EDR-API-Sprint
+
 === Other OGC API resources
 
 OGC API website, https://ogcapi.ogc.org
