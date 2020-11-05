@@ -6,6 +6,22 @@ The code sprint will focus on refining the [OGC API - Environmental Data Retriev
 
 A major objective of this second Code Sprint is to enable full interoperability of all existing, and new, client and server implementations that support the OGC API – EDR candidate standard. All participation will be remote, through web-conferencing services provided by OGC.
 
+Specific goals and objectives include:
+
+Client Development
+   Developing Test Scripts (Test Client)
+     Combination of OpenAPI and schema definitions.
+     Being able to identify what could be missing in the specification that allows the API to work.
+       If issues arise, could report an issue on the github.
+       Successes could be reported as screenshots for a final report. Anything worked on, we want to capture for the final report.
+     Swagger tools?
+       https://swagger.io/tools/swagger-editor/
+   Other Client Development?
+     Others could be free to create their own visualization client. 
+     Open example of a client using the NWS implementation:
+       https://github.com/ShaneMill1/EDR-Client-Development-Starter
+
+
 There will be an opportunity for joint discussion with all participants on the goals and objectives of the event, as well as the final briefing of findings and opinions of the participants. However, the majority of the time will be spent in collaboration between participants in active coding.
 
 To learn more about the previous OGC API - EDR Code Sprint, as well as a refresher on the draft standard itself, read the post entitled [The OGC Environmental Data Retrieval API: simple access to big data](https://www.ogc.org/blog/3211) on the OGC blog.
