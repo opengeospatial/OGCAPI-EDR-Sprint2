@@ -10,7 +10,13 @@
 === Other related specs
 
 * OGC API - Common - Part 1: Core
-** repository http://docs.opengeospatial.org/DRAFTS/19-072.pdf
+** repository http://docs.opengeospatial.org/DRAFTS/19-072.html
+
+* OGC API - Common - Part 2: Collections
+** repository http://docs.opengeospatial.org/DRAFTS/20-024.html
+
+* OGC API - Features - Part 1: Core
+** repository http://docs.opengeospatial.org/is/17-069r3/17-069r3.html
 
 * OpenAPI
 ** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
