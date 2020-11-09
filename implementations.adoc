@@ -23,27 +23,32 @@
 .Service implementations
 [cols=",,",width="75%",options="header",align="center"]
 |===
-|Implementation | Type | Contact (GitHub ID or email address)
+|Implementation | Type | Contact (GitHub ID or email address) | Link to more details
 
 | https://example.org[Example product]
 | OGC API - EDR
 | https://github.com/ghobona[Gobe Hobona]
+|
 
 | https://ogcie.iblsoft.com/edr[IBL EDR Server]
 | OGC API - EDR
 | edr@iblsoft.com
+|
 
 | http://geos.whu.edu.cn/whu-edr-demo[WHU EDR Server]
 | OGC API - EDR
 | sgby@whu.edu.cn
+|
 
 | https://data-api.mdl.nws.noaa.gov/EDR-API[NWS EDR Server]
 | OGC API - EDR
 | shane.mill@noaa.gov
+|
 
 | TBA
 | TBA
 | TBA
+|
 |===
 
 
@@ -53,15 +58,17 @@
 .Client implementations
 [cols=",,",width="75%",options="header",align="center"]
 |===
-|Implementation | Type | Contact
+|Implementation | Type | Contact | Link to more details
 
 | http://labs.metoffice.gov.uk/map/edr-client/html/query.html
 | OGC API - EDR
+|
 |
 
 | TBA
 | TBA
 | TBA
+|
 |===
 
 === Executable Test Suite
