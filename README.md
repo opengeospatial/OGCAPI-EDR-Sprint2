@@ -29,4 +29,4 @@ Register at https://portal.ogc.org/public_ogc/register/202011q4_api_edr.php
 * [Additional Resources](./additionalResources.adoc)
 * [Frequently Asked Questions (FAQs)](./FAQ.adoc)
 
-The sprint will begin at 09:00am EDT on the first day, and end at 05:00pm EDT on the second day.
+The sprint will begin at 09:00am EST on the first day, and end at 05:00pm EST on the second day.
