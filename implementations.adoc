@@ -55,9 +55,9 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| http://labs.metoffice.gov.uk/map/edr-client/html/query.html
+| OGC API - EDR
+|
 
 | TBA
 | TBA
