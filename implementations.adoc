@@ -21,9 +21,9 @@
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
 .Service implementations
-[cols=",,",width="75%",options="header",align="center"]
+[cols=",,,",width="75%",options="header",align="center"]
 |===
-|Implementation | Type | Contact (GitHub ID or email address) | Link to more details
+|Implementation | Type | Contact (GitHub ID or email address) | Link to more details |
 
 | https://example.org[Example product]
 | OGC API - EDR
@@ -56,7 +56,7 @@
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
 .Client implementations
-[cols=",,",width="75%",options="header",align="center"]
+[cols=",,,",width="75%",options="header",align="center"]
 |===
 |Implementation | Type | Contact | Link to more details
 
