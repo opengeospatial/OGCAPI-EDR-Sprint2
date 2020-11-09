@@ -32,3 +32,4 @@
 
 * CoverageJSON
 ** spec https://covjson.org/spec/
+** overview https://www.w3.org/TR/covjson-overview/
