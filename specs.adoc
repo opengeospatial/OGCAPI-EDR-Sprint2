@@ -29,3 +29,6 @@
 
 * DateTime strings IETF RFC 3339 (profile of ISO8601)
 ** spec https://tools.ietf.org/html/rfc3339 
+
+* CoverageJSON
+** spec https://covjson.org/spec/
