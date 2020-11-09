@@ -43,7 +43,7 @@
 | https://data-api.mdl.nws.noaa.gov/EDR-API[NWS EDR Server]
 | OGC API - EDR
 | shane.mill@noaa.gov
-| TBA
+| Server built using Flask, Notable Open Source tools for data access: xarray, dask, zarr
 
 | TBA
 | TBA
@@ -65,9 +65,9 @@
 |
 | TBA
 
-| TBA
-| TBA
-| TBA
+| https://data-api.mdl.nws.noaa.gov/EDR-CLIENT-API
+| OGC API - EDR
+| Shane Mill
 | TBA
 |===
 
