@@ -1,0 +1,171 @@
+{
+  "links": [
+    {
+      "href": "http://www.example.org/edr/collections/",
+      "hreflang": "en",
+      "rel": "self",
+      "type": "application/json"
+    },
+    {
+      "href": "http://www.example.org/edr/collections/",
+      "hreflang": "en",
+      "rel": "alternate",
+      "type": "text/html"
+    },
+    {
+      "href": "http://www.example.org/edr/collections/",
+      "hreflang": "en",
+      "rel": "alternate",
+      "type": "application/xml"
+    }
+  ],
+  "collections": [
+    {
+      "id": "stream_gage",
+      "title": "Stream Gage Observations",
+      "description": "Observations from stream gages operated by the USGS.",
+      "keywords": [
+        "streamflow",
+        "stage"
+      ],
+      "extent": {
+        "spatial": {
+          "bbox": [
+            -15.0,
+            48.0,
+            5.0,
+            62.0
+          ],
+          "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.01745329251994328,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]"
+        },
+        "temporal": {
+          "interval": [
+            "2020-04-19T11:00:00Z/2020-06-30T09:00:00Z"
+          ],
+          "trs": "TIMECRS[\"DateTime\",TDATUM[\"Gregorian Calendar\"],CS[TemporalDateTime,1],AXIS[\"Time (T)\",future]"
+        }
+      },
+      "crs": [
+        {
+          "name": "CRS84",
+          "wkt": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.01745329251994328,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]"
+        }
+      ],
+      "distanceunits": [
+        "km",
+        "miles"
+      ],
+      "outputformat": [
+        {
+          "name": "GeoJSON",
+          "data_schema": "http://www.example.org/edr/static/json/dp_schema.json"
+        },
+        {
+          "name": "CoverageJSON"
+        }
+      ],
+      "parameters": {
+        "daily_streamflow": {
+          "type": "Parameter",
+          "description": {
+            "en": "Daily Streamflow"
+          },
+          "unit": {
+            "label": {
+              "en": "Cubic Feet per Second"
+            },
+            "symbol": {
+              "value": "ft³/s",
+              "type": "http://www.example.org/edr/metadata/units/cfs"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00060",
+            "label": {
+              "en": "Streamflow"
+            }
+          },
+          "measurementType": {
+            "method": "mean",
+            "period": "P1D"
+          }
+        },
+        "gage_height": {
+          "type": "Parameter",
+          "description": {
+            "en": "Instantaneous River Stage"
+          },
+          "unit": {
+            "label": {
+              "en": "ft"
+            },
+            "symbol": {
+              "value": "ft",
+              "type": "http://www.example.org/edr/metadata/units/ft"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage Height"
+            }
+          },
+          "measurementType": {
+            "method": "instantaneous"
+          }
+        }
+      },
+      "links": [
+        {
+          "href": "http://www.example.org/service-doc",
+          "hreflang": "en",
+          "rel": "service-doc",
+          "type": "text/html",
+          "title": "license"
+        },
+        {
+          "href": "http://www.example.org/license",
+          "hreflang": "en",
+          "rel": "license",
+          "type": "text/html",
+          "title": "license"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/stream_gages/position",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "position",
+          "title": "position"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/stream_gages/radius",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "radius",
+          "title": "radius"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/stream_gages/area",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "area",
+          "title": "area"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/stream_gages/locations",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "location",
+          "title": "location"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/stream_gages/items",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "items",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

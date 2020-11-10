@@ -1,0 +1,1702 @@
+{
+  "links": [
+    [
+      {
+        "href": "http://www.example.org/edr/collections/",
+        "hreflang": "en",
+        "rel": "self",
+        "type": "application/json"
+      },
+      {
+        "href": "http://www.example.org/edr/collections/",
+        "hreflang": "en",
+        "rel": "alternate",
+        "type": "text/html"
+      }
+    ]
+  ],
+  "collections": [
+    {
+      "id": "instantaneous",
+      "title": "Continuous Instantaneous Observations",
+      "description": "Unprocessed observational data",
+      "keywords": [
+        "keyword1",
+        "keyword2"
+      ],
+      "extent": "todo",
+      "crs": "todo",
+      "outputformat": "todo",
+      "parameters": [
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Temperature, water, °C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00010",
+            "label": {
+              "en": "Temperature, water, °C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Wind speed, mph",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mph",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00035",
+            "label": {
+              "en": "Wind speed, mph",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Wind direction, degrees clockwise from north",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "degrees clockwise from north",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00036",
+            "label": {
+              "en": "Wind direction, degrees clockwise from north",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Precipitation, total, in",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "in",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00045",
+            "label": {
+              "en": "Precipitation, total, in",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Streamflow, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00060",
+            "label": {
+              "en": "Streamflow, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Gage height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00095",
+            "label": {
+              "en": "Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Dissolved oxygen, water, unfiltered, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00300",
+            "label": {
+              "en": "Dissolved oxygen, water, unfiltered, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES pH, water, unfiltered, field, standard units",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "standard units",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00400",
+            "label": {
+              "en": "pH, water, unfiltered, field, standard units",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Gate opening, height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=45592",
+            "label": {
+              "en": "Gate opening, height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Lake or reservoir water surface elevation above NGVD 1929, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=62614",
+            "label": {
+              "en": "Lake or reservoir water surface elevation above NGVD 1929, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "formazin nephelometric units (FNU)",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=63680",
+            "label": {
+              "en": "Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES DCP battery voltage, V",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "V",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=70969",
+            "label": {
+              "en": "DCP battery voltage, V",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Depth to water level, ft below land surface",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft below land surface",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72019",
+            "label": {
+              "en": "Depth to water level, ft below land surface",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Streamflow, tidally filtered, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72137",
+            "label": {
+              "en": "Streamflow, tidally filtered, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Mean water velocity for discharge computation, feet per second",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "feet per second",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72255",
+            "label": {
+              "en": "Mean water velocity for discharge computation, feet per second",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        },
+        {
+          "type": "Parameter",
+          "description": {
+            "en": "REGULAR INTERVAL INSTANTANEOUS VALUES Elevation above NAVD 1988, feet",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "feet",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72335",
+            "label": {
+              "en": "Elevation above NAVD 1988, feet",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00000",
+            "method": "REGULAR INTERVAL INSTANTANEOUS VALUES",
+            "period": "P1S"
+          }
+        }
+      ],
+      "links": [
+        {
+          "href": "http://www.example.org/edr/service-doc/",
+          "hreflang": "en",
+          "rel": "service-doc",
+          "type": "text/html",
+          "title": "service documentation"
+        },
+        {
+          "href": "http://www.example.org/edr/license/",
+          "hreflang": "en",
+          "rel": "license",
+          "type": "text/html",
+          "title": "license"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/radius",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "radius",
+          "title": "radius"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/area",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "area",
+          "title": "area"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/location",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "location",
+          "title": "location"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/items",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "items",
+          "title": "items"
+        }
+      ]
+    },
+    {
+      "id": "daily",
+      "title": "Daily Summary Observations",
+      "description": "Unprocessed observational data",
+      "keywords": [
+        "keyword1",
+        "keyword2"
+      ],
+      "extent": "todo",
+      "crs": "todo",
+      "outputformat": "todo",
+      "parameters": {
+        "s00001_p00010": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Temperature, water, °C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00010",
+            "label": {
+              "en": "Temperature, water, °C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00010": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Temperature, water, °C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00010",
+            "label": {
+              "en": "Temperature, water, °C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00010": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Temperature, water, °C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00010",
+            "label": {
+              "en": "Temperature, water, °C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s30545_p00010": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY INSTANTANEOUS OBSERVATION AT 0545 Temperature, water, °C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00010",
+            "label": {
+              "en": "Temperature, water, °C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=30545",
+            "method": "DAILY INSTANTANEOUS OBSERVATION AT 0545",
+            "period": "P1D"
+          }
+        },
+        "s00006_p00045": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY SUMMATION VALUES Precipitation, total, in",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "in",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00045",
+            "label": {
+              "en": "Precipitation, total, in",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00006",
+            "method": "DAILY SUMMATION VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p00060": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Streamflow, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00060",
+            "label": {
+              "en": "Streamflow, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00060": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Streamflow, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00060",
+            "label": {
+              "en": "Streamflow, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00060": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Streamflow, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00060",
+            "label": {
+              "en": "Streamflow, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p00065": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Gage height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00065": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Gage height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00065": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Gage height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s30700_p00065": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY INSTANTANEOUS OBSERVATION AT 0700 Gage height, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00065",
+            "label": {
+              "en": "Gage height, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=30700",
+            "method": "DAILY INSTANTANEOUS OBSERVATION AT 0700",
+            "period": "P1D"
+          }
+        },
+        "s00001_p00095": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00095",
+            "label": {
+              "en": "Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00095": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00095",
+            "label": {
+              "en": "Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00095": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00095",
+            "label": {
+              "en": "Specific conductance, water, unfiltered, microsiemens per centimeter at 25°C",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p00300": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Dissolved oxygen, water, unfiltered, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00300",
+            "label": {
+              "en": "Dissolved oxygen, water, unfiltered, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00300": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Dissolved oxygen, water, unfiltered, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00300",
+            "label": {
+              "en": "Dissolved oxygen, water, unfiltered, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00300": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Dissolved oxygen, water, unfiltered, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00300",
+            "label": {
+              "en": "Dissolved oxygen, water, unfiltered, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s30600_p00300": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY INSTANTANEOUS OBSERVATION AT 0600 Dissolved oxygen, water, unfiltered, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00300",
+            "label": {
+              "en": "Dissolved oxygen, water, unfiltered, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=30600",
+            "method": "DAILY INSTANTANEOUS OBSERVATION AT 0600",
+            "period": "P1D"
+          }
+        },
+        "s00001_p00400": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES pH, water, unfiltered, field, standard units",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "standard units",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00400",
+            "label": {
+              "en": "pH, water, unfiltered, field, standard units",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p00400": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES pH, water, unfiltered, field, standard units",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "standard units",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00400",
+            "label": {
+              "en": "pH, water, unfiltered, field, standard units",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p00400": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES pH, water, unfiltered, field, standard units",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "standard units",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00400",
+            "label": {
+              "en": "pH, water, unfiltered, field, standard units",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00008_p00400": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEDIAN VALUES pH, water, unfiltered, field, standard units",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "standard units",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=00400",
+            "label": {
+              "en": "pH, water, unfiltered, field, standard units",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00008",
+            "method": "DAILY MEDIAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p62361": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "micrograms per liter",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=62361",
+            "label": {
+              "en": "Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p62361": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "micrograms per liter",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=62361",
+            "label": {
+              "en": "Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p62361": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "micrograms per liter",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=62361",
+            "label": {
+              "en": "Chlorophylls, water, fluorometric, 650-700 nm, in situ sensor, micrograms per liter",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p62614": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Lake or reservoir water surface elevation above NGVD 1929, ft",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=62614",
+            "label": {
+              "en": "Lake or reservoir water surface elevation above NGVD 1929, ft",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p63680": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "formazin nephelometric units (FNU)",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=63680",
+            "label": {
+              "en": "Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p63680": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "formazin nephelometric units (FNU)",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=63680",
+            "label": {
+              "en": "Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p63680": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "formazin nephelometric units (FNU)",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=63680",
+            "label": {
+              "en": "Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00008_p63680": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEDIAN VALUES Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "formazin nephelometric units (FNU)",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=63680",
+            "label": {
+              "en": "Turbidity, water, unfiltered, monochrome near infra-red LED light, 780-900 nm, detection angle 90 ±2.5°, formazin nephelometric units (FNU)",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00008",
+            "method": "DAILY MEDIAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00001_p72019": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MAXIMUM VALUES Depth to water level, ft below land surface",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft below land surface",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72019",
+            "label": {
+              "en": "Depth to water level, ft below land surface",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00001",
+            "method": "DAILY MAXIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00002_p72019": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MINIMUM VALUES Depth to water level, ft below land surface",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft below land surface",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72019",
+            "label": {
+              "en": "Depth to water level, ft below land surface",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00002",
+            "method": "DAILY MINIMUM VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p72019": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Depth to water level, ft below land surface",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft below land surface",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72019",
+            "label": {
+              "en": "Depth to water level, ft below land surface",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p72137": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Streamflow, tidally filtered, ft³/s",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "ft³/s",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=72137",
+            "label": {
+              "en": "Streamflow, tidally filtered, ft³/s",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p80154": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Suspended sediment concentration, mg/L",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "mg/L",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=80154",
+            "label": {
+              "en": "Suspended sediment concentration, mg/L",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        },
+        "s00003_p80155": {
+          "type": "Parameter",
+          "description": {
+            "en": "DAILY MEAN VALUES Suspended sediment discharge, tons/d",
+            "sp": "todo"
+          },
+          "unit": {
+            "label": {
+              "en": "tons/d",
+              "sp": "todo"
+            },
+            "symbol": {
+              "value": "units",
+              "type": "https://todo"
+            }
+          },
+          "observedProperty": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?parmCd=80155",
+            "label": {
+              "en": "Suspended sediment discharge, tons/d",
+              "sp": "todo"
+            }
+          },
+          "measurementType": {
+            "id": "https://waterdata.usgs.gov/nwisweb/rdf?statCd=00003",
+            "method": "DAILY MEAN VALUES",
+            "period": "P1D"
+          }
+        }
+      },
+      "links": [
+        {
+          "href": "http://www.example.org/edr/service-doc/",
+          "hreflang": "en",
+          "rel": "service-doc",
+          "type": "text/html",
+          "title": "service documentation"
+        },
+        {
+          "href": "http://www.example.org/edr/license/",
+          "hreflang": "en",
+          "rel": "license",
+          "type": "text/html",
+          "title": "license"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/radius",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "radius",
+          "title": "radius"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/area",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "area",
+          "title": "area"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/location",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "location",
+          "title": "location"
+        },
+        {
+          "href": "http://www.example.org/edr/collections/daily/items",
+          "hreflang": "en",
+          "rel": "data",
+          "type": "items",
+          "title": "items"
+        }
+      ]
+    }
+  ]
+}
