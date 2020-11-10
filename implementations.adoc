@@ -45,9 +45,9 @@
 | shane.mill@noaa.gov
 | TBA
 
-| TBA
-| TBA
-| TBA
+| https://github.com/tomkralidis/pygeoapi/tree/edr-api[MSC pygeoapi EDR API prototype]
+| OGC API - EDR, Features/Coverages/Records/Processes/Tiles/STAC
+| tomkralidis@gmail.com
 | TBA
 |===
 
