@@ -32,22 +32,22 @@
 
 | https://ogcie.iblsoft.com/edr[IBL EDR Server]
 | OGC API - EDR
-| edr@iblsoft.com
+| https://github.com/iandruska-ibl[Igor Andruska]
 | TBA
 
 | http://geos.whu.edu.cn/whu-edr-demo[WHU EDR Server]
 | OGC API - EDR
-| sgby@whu.edu.cn
+| https://github.com/boyi-shangguan[Boyi Shangguan]
 | TBA
 
 | https://data-api.mdl.nws.noaa.gov/EDR-API[NWS EDR Server]
 | OGC API - EDR
-| shane.mill@noaa.gov
+| https://github.com/ShaneMill1[Shane Mill]
 | Server built using Flask, Notable Open Source tools for data access: xarray, dask, zarr
 
 | https://github.com/tomkralidis/pygeoapi/tree/edr-api[MSC pygeoapi EDR API prototype]
 | OGC API - EDR, Features/Coverages/Records/Processes/Tiles/STAC
-| tomkralidis@gmail.com
+| https://github.com/tomkralidis[Tom Kralidis]
 | TBA
 |===
 
@@ -62,12 +62,12 @@
 
 | http://labs.metoffice.gov.uk/map/edr-client/html/query.html
 | OGC API - EDR
-|
+|https://github.com/m-burgoyne[Mark Burgoyne]
 | TBA
 
 | https://data-api.mdl.nws.noaa.gov/EDR-CLIENT-API
 | OGC API - EDR
-| Shane Mill
+| https://github.com/ShaneMill1[Shane Mill]
 | TBA
 |===
 
