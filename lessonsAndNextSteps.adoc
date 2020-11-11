@@ -1,5 +1,7 @@
 = Immediate Lessons and Next Steps
 
+A summary of activities and progress made by sprint participants during the two-day event is on a https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/blob/master/summary_of_activities.adoc[separate page]. Below is a list of the immediate lessons learnt and recommendations for the next steps.
+
 == Immediate Lessons
 
 * Different approaches being taken by the different APIs. Some are taking a very Web focus, others are not (e.g. assuming that developers know what features, coverages are).
