@@ -1,3 +1,6 @@
 ## Screenshots
 
 This folder shows screenshots of implementations.
+
+### EDR Client in IBL Visual Weather
+![VW EDR Client](./iandruska-ibl_issue-18.png)
