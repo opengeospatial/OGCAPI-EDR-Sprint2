@@ -1,14 +1,5 @@
 = Immediate Lessons and Next Steps
 
-== Progress
-
-=== MSC
-
-- created EDR API [baseline implementation in pygeoapi](https://github.com/tomkralidis/pygeoapi/tress/edr-api).
-- created OGC API - Processes process to calculate wind speed from EDR API queries
-  - OAProc request -> OAProc process -> EDR API query -> EDR API response -> wind speed calculation -> OAProc response
-- review of OGC API - Records [record model](https://github.com/opengeospatial/ogcapi-records/blob/master/core/openapi/schemas/record.yaml) as part of the [MetOcean Best Practices for OGC API - Records](https://github.com/OGCMetOceanDWG/ogcapi-records-metocean-bp)
-
 == Immediate Lessons
 
 * Different approaches being taken by the different APIs. Some are taking a very Web focus, others are not (e.g. assuming that developers know what features, coverages are).
