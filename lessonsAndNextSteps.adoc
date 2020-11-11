@@ -2,14 +2,27 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+* Different approaches being taken by the different APIs. Some are taking a very Web focus, others are not (e.g. assuming that developers know what features, coverages are).
+* Use of OpenAPI3 is a good decision. However, it puts a strain on the Abstract Test Suite.
+* An alternative to traditional documents is Jupyter toolbox etc.
+* The commonality between different APIs makes it easier to develop support for new APIs. For example, OGC API - Features, OGC API - Processes and OGC API - EDR.
+* The differences in development environments made it slightly harder but it made the outputs more robust.
+* There's a need to reach out more communities that use environmental data (e.g. oceanography, INSPIRE)
+* There's a need to enable the identification of vertical coordinate reference systems
 
 == Next Steps for the innovation side
 
-* TBA
+* Potential work item for future Testbeds.
+* Prototyping a conformance class for Observations and Measurements (O&M)
+* Prototyping enhancements for metadata frameworks (e.g. demonstrating use of the EDR API alongside OGC API - Records)
+* Aviation + SWIM + iWXXM
+* Use of the https://github.com/opengeospatial/Environmental-Data-Retrieval-API/wiki/Security[security] mechanisms offered OpenAPI to protect an EDR API implementation
+* Demonstrate Pub/Sub support (Asynchronous approaches)
+
+
 
 == Next Steps on the standards side
 
-* TBA
-* TBA
+* We need to be able to promote the EDR API, highlighting how the EDR API is able to work alongside other OGC APIs e.g. OGC API - Features.
+* Start working on Part 2 of the EDR API. See https://github.com/opengeospatial/Environmental-Data-Retrieval-API/wiki/Future-Work[ideas] for future work.
+* Some functionality may need to be moved to a Processes API profile.

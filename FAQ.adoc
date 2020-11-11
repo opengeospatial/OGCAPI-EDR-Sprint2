@@ -7,3 +7,8 @@ A: Development and testing of the draft API specification(s).
 *Q: What examples exist of servers that have already implemented the draft specifications?*
 
 A: Examples of implementations are listed at https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/blob/master/implementations.adoc
+
+
+*Q: Will there be any funding available for sprint participants?*
+
+A: No, there will be no funding available for sprint participants.
