@@ -22,7 +22,7 @@
 ** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
 
 * WKT Well Known Text
-** spec http://portal.opengeospatial.org/files/?artifact_id=25355 (see Section 7) 
+** spec http://portal.opengeospatial.org/files/?artifact_id=25355 (see Sections 6 and 7) 
 
 * WKT Well Known Text for CRS Coordinate Reference Systems
 ** spec http://docs.opengeospatial.org/is/18-010r7/18-010r7.html
