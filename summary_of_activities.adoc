@@ -13,7 +13,10 @@ TBA
 
 == NOAA NWS
 
-TBA
+- Begin creating test scripts for testing existing implementations (https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/issues/10)
+- NWS Implementation - fix issue with response of JSON when using content-type headers (https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/issues/7)
+- Began some work on a client related to (https://github.com/opengeospatial/OGCAPI-EDR-Sprint2/issues/6)
+- Fixed reported bugs with the NWS implementation.
 
 == IBL
 
