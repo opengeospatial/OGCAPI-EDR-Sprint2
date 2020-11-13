@@ -9,7 +9,9 @@
 
 == WHU
 
-TBA
+- published a serie of thematic data as “collections” on WHU EDR server for disaster analysis, such as the location of villages, schools, bridges, and paddy fields in Hainan.
+- developed the "Flood Disaster Decision Support System" use case with EDR API instead of WPS/WCS/WFS to query the related data after obtaining a typhoon trajectory/corridor or flood inundation area.
+- tried to support the EDR API service provided by other organizations in our demo to show interoperability, for example, query the precipitation data from the NOAA NWS EDR API server in our client.
 
 == NOAA NWS
 
